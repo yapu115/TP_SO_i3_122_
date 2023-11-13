@@ -1,0 +1,10 @@
+a) El master tiene todos los archivos de las ramas creadas y fusionadas previamente 
+
+b) Sí, pude ver todo el tiempo todos los cambios que se iban realizando
+
+c) Para hacer el merge solo tuve que usar los comandos:
+  
+git pull origin DiazZabala
+git checkout main
+git merge DiazZabala
+git push origin main

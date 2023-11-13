@@ -48,3 +48,35 @@ lo        Link encap:Local Loopback
           TX packets:157 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0
           RX bytes:11275 (11.2 KB)  TX bytes:11275 (11.2 KB)
+
+
+Caballero Jorge Ezequiel
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::59:c2ff:fe1a:50f1  prefixlen 64  scopeid 0x20<link>
+        ether 02:59:c2:1a:50:f1  txqueuelen 1000  (Ethernet)
+        RX packets 2174  bytes 1661833 (1.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1071  bytes 163151 (163.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp0s8: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.56.4  netmask 255.255.255.0  broadcast 192.168.56.255
+        inet6 fe80::a00:27ff:fe80:6675  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:80:66:75  txqueuelen 1000  (Ethernet)
+        RX packets 37  bytes 3999 (3.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 21  bytes 1646 (1.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 30  bytes 3044 (3.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 30  bytes 3044 (3.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+16:42 PM

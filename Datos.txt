@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Jorge Ezequiel Caballero  192.168.0.12  15:58
+=======
+Jorge Caballero 192.168.0.12 16:02
+
+Franco Yapura 192.168.56.1 04:10:36 p. m.
+
+Gricel Diaz Zabala IP 192.168.0.31 Lunes 13 de noviembre de 2023, 15:25
+>>>>>>> df85009babccd996e90310dbb067f0f700c3670a

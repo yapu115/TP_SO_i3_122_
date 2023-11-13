@@ -1,0 +1,49 @@
+a) El master tiene todos los archivos de las ramas creadas y fusionadas previamente 
+
+b) Sí, pude ver todo el tiempo todos los cambios que se iban realizando
+
+c) Para hacer el merge solo tuve que usar los comandos:
+  
+git pull origin DiazZabala
+git checkout main
+git merge DiazZabala
+git push origin main
+
+d) No, las ramas Gamma y Beta quedan desactualizadas, la única up to date es main
+
+e) Ninguno
+
+f)
+
+ifconfig
+Get-Date
+git add .
+git commit -m "correccion"
+git push origin Yapura
+
+g)
+
+Caballero Jorge Ezequiel
+
+primero clono el repositorio
+
+git clone https://github.com/yapu115/TP_SO_i3_122_.git
+
+git checkout Yapura(nombre de la rama) (me paro sobre la rama a trabajar)
+(o si no, si ya habia clonado, para actualizar los cambios de cierta rama:
+git pull Yapura(nombre de la rama))
+
+abrir el archivo beta.txt y poner los datos correspondiente
+
+(en el vagrant ssh ponemos
+ifconfig
+copiamos los datos
+pegamos los datos en beta.txt)
+
+luego hacemos un push
+
+git add .
+
+git commit -m "ifconfig de alfa"
+
+git push origin Yapura(nombre de la rama)

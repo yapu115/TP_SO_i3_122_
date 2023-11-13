@@ -8,3 +8,15 @@ git pull origin DiazZabala
 git checkout main
 git merge DiazZabala
 git push origin main
+
+d) No, las ramas Gamma y Beta quedan desactualizadas, la única up to date es main
+
+e) Ninguno
+
+f)
+
+ifconfig
+Get-Date
+git add .
+git commit -m "correccion"
+git push origin Yapura
